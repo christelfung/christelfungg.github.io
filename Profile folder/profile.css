@@ -97,3 +97,12 @@ box-shadow: 0 0 0px 1000px white inset;
 .fa:hover {
     opacity: 0.7;
 }
+
+.boxsmall {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
